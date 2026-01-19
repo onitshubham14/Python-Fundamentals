@@ -38,6 +38,7 @@ The focus is on understanding core Python concepts through **hands-on coding, pr
 ---
 
 ## 🛠️ Repository Structure
+'''
 python-fundamentals/
 │
 ├── basics/                 # Variables, data types, input/output
@@ -49,3 +50,4 @@ python-fundamentals/
 ├── oop/                    # Basic object-oriented programming
 ├── mini-projects/          # Small projects to apply concepts
 └── README.md
+'''
