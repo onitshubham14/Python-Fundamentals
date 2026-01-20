@@ -5,9 +5,7 @@
 # Purpose: Demonstrate how Python makes decisions
 #----------------------------------------------------------------------------------------
 # 1: Simple if statement
-
 x = 5
-
 
 if x < 10:
     print("smaller") #If the condition is True, the indented block will execute
@@ -18,11 +16,9 @@ if x > 20:
 print("finis") #This line always runs (sequential execution)
 
 #----------------------------------------------------------------------------------
-
 # 2: if-else statement
 
 y = 15
-
 # Python checks the condition
 if y > 10:
     print("y is greater than 10")
@@ -30,11 +26,9 @@ else:
     print("y is 10 or less") # Runs only when the if condition is False
 
 #-----------------------------------------------------------------------------------
-
 # 3: if-elif-else statement
 
 z = 10
-
 # Only ONE block will run
 
 if z < 10:
@@ -45,19 +39,16 @@ else:
     print("z is greater than 10")
 
 #------------------------------------------------------------------------------------
-
 # 4: Using comparison operators
 
 a = 7
 b = 5
-
 # Comparison operators return True or False
 
 if a != b:
     print("a is not equal to b")
 
 #-----------------------------------------------------------------------------------------------------
-
 # 5: Conditional with user input
 
 try:
@@ -75,8 +66,7 @@ except:
 
 
 # things to remember :
-
-# - if checks a condition
-# - elif checks another condition if previous was False
-# - else runs when all conditions are False
-# - Indentation defines which code belongs to the condition
+# if checks a condition
+# elif checks another condition if previous was False
+# else runs when all conditions are False
+# Indentation defines which code belongs to the condition
