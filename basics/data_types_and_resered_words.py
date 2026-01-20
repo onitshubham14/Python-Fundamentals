@@ -52,11 +52,11 @@ print(type(is_student))# <class 'bool'>
 # -------------------------
 
 # Valid variable names
-student_name = "Alex"
+student_name = "Krish"
 total_marks = 90
 
 # Invalid variable names (examples)
-# 1name = "Bob"      # Cannot start with a number
+# 1name = "Jaddu"      # Cannot start with a number
 # class = "Python"  # 'class' is a reserved word
 
 print("Student:", student_name)
