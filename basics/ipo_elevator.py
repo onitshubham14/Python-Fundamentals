@@ -1,7 +1,6 @@
 """
 This folder is demonstrate Input, Processing, and Output (IPO)
 Convert European elevator floor to US floor
-
 """
 inp = input("European floor? ") # Input : get the european floor number from the user.
 

@@ -2,7 +2,6 @@
 This file demonstrates basic usage of try and except in Python.
 We attempt to convert strings to integers. If the conversion fails,
 we catch the error and assign a default value (-1).
-
 """
 # Example 1:
 astr = 'hello bob'  # a string that cannot be converted to an integer

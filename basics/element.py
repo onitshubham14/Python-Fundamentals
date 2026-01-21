@@ -1,7 +1,6 @@
 """
 This file demonstrates basic Python statements.
- Learned from: Python for Everybody (Coursera)
- 
+Learned from: Python for Everybody (Coursera)
 """
 
 # Assignment statement
