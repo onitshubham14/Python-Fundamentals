@@ -1,8 +1,10 @@
-# This file Explains if,if-else & elif statement
+"""
+This file Explains if,if-else & elif statement
+Topic: Conditional execution (if / elif / else)
+Course: Python for Everybody (Coursera)
+Purpose: Demonstrate how Python makes decisions
 
-# Topic: Conditional execution (if / elif / else)
-# Course: Python for Everybody (Coursera)
-# Purpose: Demonstrate how Python makes decisions
+"""
 #----------------------------------------------------------------------------------------
 # 1: Simple if statement
 x = 5

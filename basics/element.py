@@ -1,4 +1,8 @@
-# This file demonstrates basic Python statements.
+"""
+This file demonstrates basic Python statements.
+ Learned from: Python for Everybody (Coursera)
+ 
+"""
 
 # Assignment statement
 x = 5       # variable x stores the value 5.
