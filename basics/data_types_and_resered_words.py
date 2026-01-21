@@ -1,7 +1,7 @@
 """
- This file explains Python basic data types and reserved words
- Learned from: Python for Everybody (Coursera)
- 
+This file explains Python basic data types and reserved words
+Learned from: Python for Everybody (Coursera)
+
 """
 # some data types : 
 
