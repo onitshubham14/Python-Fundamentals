@@ -26,27 +26,18 @@ else:
     print("y is 10 or less") # Runs only when the if condition is False
 
 #-----------------------------------------------------------------------------------
-# 3: if-elif-else statement
+# 3: if-elif-else statement 
 
-z = 10
+x = 10
 # Only ONE block will run
 
-if z < 10:
-    print("z is less than 10")
-elif z == 10:
-    print("z is exactly 10")
+if x < 10:
+    print("x is less than 10")
+elif x == 10:
+    print("x is exactly 10")
 else:
-    print("z is greater than 10")
-
-#------------------------------------------------------------------------------------
-# 4: Using comparison operators
-
-a = 7
-b = 5
-# Comparison operators return True or False
-
-if a != b:
-    print("a is not equal to b")
+    print("x is greater than 10")
+print('All done')
 
 #-----------------------------------------------------------------------------------------------------
 # 5: Conditional with user input
