@@ -3,6 +3,8 @@ This file demonstrates basic usage of try and except in Python.
 We attempt to convert strings to integers. If the conversion fails,
 we catch the error and assign a default value (-1).
 """
+#-------------------------------------------------------------------------------------------
+
 # Example 1:
 astr = 'hello bob'  # a string that cannot be converted to an integer
 
@@ -15,6 +17,7 @@ except:
 
 print('first:', istr)  # Output: first: -1
 
+#---------------------------------------------------------------------------------------------
 
 # Example 2:
 astr = '123'  # a string that can be converted to an integer
@@ -28,6 +31,7 @@ except ValueError:
 
 print('second:', istr)  # Output: second: 123
 
+#--------------------------------------------------------------------------------------------
 
 # Example 3: with user input with try/except.
 rawstr = input('Enter a number: ') # Ask the user to enter a number

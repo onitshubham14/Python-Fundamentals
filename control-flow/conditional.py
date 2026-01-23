@@ -17,6 +17,7 @@ if x > 20:
 print("finis") #This line always runs (sequential execution)
 
 #----------------------------------------------------------------------------------
+
 # 2: if-else statement
 
 y = 15
@@ -27,6 +28,7 @@ else:
     print("y is 10 or less") # Runs only when the if condition is False
 
 #-----------------------------------------------------------------------------------
+
 # 3: if-elif-else statement 
 
 x = 10
@@ -40,7 +42,8 @@ else:
     print("x is greater than 10")
 print('All done')
 
-#-----------------------------------------------------------------------------------------------------
+#-------------------------------------------------------------------------------------------------
+
 # 5: Conditional with user input
 
 try:
@@ -54,7 +57,7 @@ try:
         print("Negative number")
 
 except:
-    print("Invalid input")    # Handles invalid input (non-numeric)
+    print("Invalid input")    # Handles invalid input
 
 
 # things to remember :
