@@ -20,7 +20,6 @@ print(big)  # Output: 'w'
 # Example 2: User-defined function
 
 def addtwo(a, b):
-    
     #Takes two numbers and returns their sum
     added = a + b
     return added
