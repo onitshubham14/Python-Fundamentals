@@ -3,8 +3,9 @@ This file Explains if,if-else & elif statement
 Topic: Conditional execution (if / elif / else)
 Course: Python for Everybody (Coursera)
 Purpose: Demonstrate how Python makes decisions
+
 """
-#----------------------------------------------------------------------------------------
+
 # 1: Simple if statement
 x = 5
 
@@ -16,12 +17,12 @@ if x > 20:
 
 print("finis") #This line always runs (sequential execution)
 
-#----------------------------------------------------------------------------------
 
 # 2: if-else statement
 
 y = 15
 # Python checks the condition
+
 if y > 10:
     print("y is greater than 10")
 else:

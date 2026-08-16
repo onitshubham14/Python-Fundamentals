@@ -1,6 +1,7 @@
 """
 # Module 6: Functions (Introduction)
 # Course: Python for Everybody
+
 """
 # What I learned:
 # 1.Built-in functions like max() work on sequences such as strings

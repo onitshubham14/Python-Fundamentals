@@ -5,6 +5,7 @@ Topics include:
 - User-defined functions
 - Default arguments
 - Absolute value (abs)
+
 """
 
 # --------------------------------------------------
@@ -15,7 +16,7 @@ Topics include:
 def round_to_nearest(num):
     return round(num)
 
-round_to_nearest(9.9999)
+print(round_to_nearest(9.9999))
 # Output : 10
 
 # --------------------------------------------------
@@ -28,7 +29,7 @@ def absolute_difference(a, b):
     # Find distance between two numbers
     return abs(a - b)
 
-absolute_difference(5, 12)
+print(absolute_difference(5, 12))
 # Output : 7 
 
 # --------------------------------------------------
@@ -45,7 +46,7 @@ def candies_to_smash(total_candies, friends=3):
     """
 
     # % gives the remainder after division
-    return total_candies % friends
+    return float(total_candies % friends)
 
-candies_to_smash(91)
+print(candies_to_smash(91))
 # Output : 1 

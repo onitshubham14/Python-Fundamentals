@@ -1,6 +1,7 @@
 """
 This file explains Python basic data types and reserved words
 Learned from: Python for Everybody (Coursera)
+
 """
 # some data types : 
 
@@ -13,9 +14,8 @@ height = 5.8
 print("Height:", height)
 
 # there is something more to know about float, if the two num divided by int data type the return value willbe automatically in float data type.
-# a = 10
-# b = 2
-# print(a / b)       5.0
+# a = 10, b = 2
+# print(a / b)   5.0
 # print(type(a / b))  <class 'float'>
 
 
@@ -37,8 +37,7 @@ print(type(is_student))# <class 'bool'>
 
 # Reserved Words (Keywords)
 
-# Reserved words are words that Python already understands.
-# We cannot use them as variable names.
+# Reserved words are words that Python already understands We cannot use them as variable names.
 
 # Examples of reserved words:
 # if, else, elif, for, while, break, continue
@@ -47,7 +46,6 @@ print(type(is_student))# <class 'bool'>
 
 #example
 
-# if = 5
 # -------------------------
 # Valid vs Invalid variable names :
 # -------------------------

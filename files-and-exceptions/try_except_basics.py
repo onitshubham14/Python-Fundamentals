@@ -44,7 +44,7 @@ except ValueError:
     ival = -1
 
 # Check the result and print appropriate message
-if ival > 0:
+if ival < 0:
     print('Nice work!')  # valid positive number
 else:
     print('Not a number or not positive')  # invalid or negative input
