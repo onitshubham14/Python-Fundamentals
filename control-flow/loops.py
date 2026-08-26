@@ -77,6 +77,25 @@ while True:
 
 print("Loop finished.")
 
+# ------------------------------------------
+# LOOP PATTERN: SEARCHING WITH A BOOLEAN FLAG
+
+# A Boolean variable can be used to remember
+# whether a particular value has been found.
+
+found = False
+
+for num in [9, 41, 12, 3, 74, 15]:
+
+    # Check if the current number is 3.
+    if num == 3:
+        found = True
+
+    # Show the current status of found.
+    print(found, num)
+
+print("Found:", found)
+
 """
 Concepts learned:
 - while loops
